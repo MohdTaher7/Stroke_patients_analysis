@@ -1,2 +1,6 @@
 # Stroke_patients_analysis
-this is Infosys stroke patients Healthcare using Deep Learning project.
+This is Infosys project and The projects name is stroke patients Healthcare using Deep Learning.
+<br>
+Author - Mohammed Taher
+<br>
+Mentor - Ashwin Vellaichamy
