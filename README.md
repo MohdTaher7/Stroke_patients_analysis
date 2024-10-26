@@ -6,9 +6,9 @@ Author - Mohammed Taher
 Mentor - Ashwin Vellaichamy
 
 We have a dataset of stroke patients By using this dataset we have to do some analysis and At the end of analysis we will find some patterns happening in storke patients<br>
-lets break analysis into some objectives,so we can easily track our code <br><br>
+lets break analysis into some objectives,so we can easily track our code <br>
 
-<span style="color:green"> Objectives-1</span1><br>
+ Objectives-1<br>
 
  - Import a dataset from a CSV file to a Pandas dataframe<br>
  - Develop some basic insights about the dataset<br>
