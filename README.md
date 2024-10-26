@@ -21,7 +21,7 @@ lets break analysis into some objectives,so we can easily track our code <br>
 * Handle missing values
 * Correct data formatting
 
-<span style="color:red"> Observations</span1> of objectives-2
+ Observations of objectives-2 <br>
 In objective 2 we have handled missing values and 
-Correct data formattin,bmi column has 201 null value appeared in the data frame; those missing values may hinder further analysis,So we replaced bmi value by mean. Then we checked data formatting and all columns are of correct data type.<br>
+Correct data formatting,bmi column has 201 null value appeared in the data frame; those missing values may hinder further analysis,So we replaced bmi value by mean. Then we checked data formatting and all columns are of correct data type.<br>
 we finally obtained the cleansed data set with no missing values and with all data in its proper format.
