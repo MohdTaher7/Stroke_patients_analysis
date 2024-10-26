@@ -10,14 +10,14 @@ lets break analysis into some objectives,so we can easily track our code <br>
 
  Objectives-1<br>
 
- - Import a dataset from a CSV file to a Pandas dataframe<br>
- - Develop some basic insights about the dataset<br>
+ - Import a dataset from a CSV file to a Pandas dataframe
+ - Develop some basic insights about the dataset
 
 <span style="color:red"> Observations of objectives-1</span1> <br>
  firstly we Imported libraries, load our dataset, and we had done some basic operations on dataset and got some observations <br>
  the dataset have total 5110 entries and 12 columns and data type are int64,float64,object and other details about data.<br>
  <br>
- <span style="color:green"> Objectives-2</span1>
+ Objectives-2<br>
 * Handle missing values
 * Correct data formatting
 
