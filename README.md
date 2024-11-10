@@ -27,5 +27,5 @@ Correct data formatting,bmi column has 201 null value appeared in the data frame
 we finally obtained the cleansed data set with no missing values and with all data in its proper format.<br><br>
 
 ## MILESTONE-2 <br>
-Data Visualization
+Data Visualization<br>
 Data Encoding (Convert the data into 0's & 1's from for data modling)
