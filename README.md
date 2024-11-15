@@ -28,4 +28,9 @@ we finally obtained the cleansed data set with no missing values and with all da
 
 ## MILESTONE-2 <br>
 Data Visualization<br>
-Data Encoding (Convert the data into 0's & 1's from for data modling)
+Data Encoding (Convert the data into 0's & 1's from for data modling)<br>
+
+## MILESTONE-3 <br>
+Building ML model<br>
+
+
