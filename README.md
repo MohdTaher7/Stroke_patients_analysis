@@ -33,4 +33,9 @@ Data Encoding (Convert the data into 0's & 1's from for data modling)<br>
 ## MILESTONE-3 <br>
 Building ML model<br>
 
+## MILESTONE-4 <br>
+- Confusion matrix
+- F1 score
+- Precision and Recall
+
 
