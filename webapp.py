@@ -51,7 +51,7 @@ st.title("Stroke Risk Prediction and Data Analysis")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("dataset/data.csv")
+    df = pd.read_csv("data.csv")
     df['bmi'] = df['bmi'].fillna(df['bmi'].median())
     return df
 
