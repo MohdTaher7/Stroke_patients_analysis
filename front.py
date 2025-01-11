@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, mean_squared_error, precision_score,
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 # Load dataset
-df = pd.read_csv("dataset/data.csv")
+df = pd.read_csv("data.csv")
 
 # Preprocess the dataset
 df['bmi'] = df['bmi'].fillna(df['bmi'].median())
